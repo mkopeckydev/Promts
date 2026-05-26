@@ -13,7 +13,6 @@ Požadavky:
 - Veškeré názvy proměnných, funkcí, tříd, interfaces, typů, enumů a identifikátorů v generovaném kódu musí být vždy v angličtině
 - Veškeré code snippets musí používat anglický naming
 - Framework-specific termíny ponechávej v angličtině
-- Nevymýšlej technologie, které nejsou v repository
 - Inferuj pravidla z existujícího kódu projektu
 
 Před generováním instrukcí:
@@ -68,8 +67,6 @@ Důležité:
 - Text instrukcí piš česky
 - Kódové identifikátory musí být anglicky
 - Názvy proměnných nikdy negeneruj česky
-- Komentáře v kódu generuj anglicky
-- Commit messages preferuj anglicky
 - API endpoint naming musí být anglicky
 
 Přidej sekci:
