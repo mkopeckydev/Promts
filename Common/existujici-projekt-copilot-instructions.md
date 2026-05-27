@@ -2,6 +2,7 @@ Zadání:
 
 - Analyzuj celé solution a vygeneruj copilot-instructions.md pro každý projekt a tyto soubory pro jednotlivé projekty umístí v každém jednotlivém projektu do podadresáře .github.
 - Nevytvářej copilot-instructions.md na úrovni solution ale jen na úrovni jednotlivých projektů v solution.
+- Vytvoř copilot-instructions.md pouze pokud v projektu již neexistuje.
 
 Cíl:
 
