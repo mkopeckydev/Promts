@@ -14,3 +14,9 @@ Do třídy NumberMapping přibylo nové pole ClassificationVAT, doplň mi toto p
 Uprav komponentu ucSettingsNumberMapping.ascx, přidej mi tam nové pole ClassificationVAT s popiskem Členění DPH, toto pole umísti za pole Předkontace. Pole se bdue editovat komponentou UC:Select, pro načtení položek použit metodu PohodaFacade.GetClassificationVAT
 
 ##
+
+- Do třídy NumberMapping doplň nové pole ClassificationVATCompany
+- Doplň toto pole do datové fasády s názvem NumberMappingFacade, podobně jako ostatní pole.
+- Uprav komponentu ucSettingsNumberMapping.ascx, přidej tam nové pole ClassificationVAT s popiskem "Členění DPH firma", toto pole umísti za pole "Členění DPH osoba:". Pole se bude editovat komponentou UC:Select, pro načtení položek použit metodu PohodaFacade.GetClassificationVAT
+
+##
